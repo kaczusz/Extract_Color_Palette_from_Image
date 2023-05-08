@@ -1,0 +1,47 @@
+/*Nav*/
+.container-fluid {
+    padding: 0
+}
+.nav-link:hover {
+    background-color: #DEDEDE;
+}
+.nav-custom {
+    padding-top:10px;
+}
+/*Main*/
+.main-box {
+    border-radius: 15px;
+    width: 50%;
+    background-color: #f7f7f7;
+    margin: 10vh auto;
+}
+h2 {
+    font-size: 1.5rem;
+    color: #4A4A4A;
+    padding: 2vh 0;
+}
+.demo-img {
+    width: 100%;
+}
+.table {
+    width: 100%;
+}
+.form {
+    padding-bottom: 20px;
+}
+/*Footer*/
+.bottom-container {
+    text-align: center;
+    width: 100%;
+    color: #C5C5C5;
+    background-color: #f7f7f7;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.icon {
+    padding: 10px;
+    color: #C5C5C5;
+}
+.icon:hover {
+    color: #ACACAC;
+}
